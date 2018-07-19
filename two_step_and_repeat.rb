@@ -63,6 +63,6 @@ def break_dance
      puts 'Right'
    end
    sleep(0.5)
- end 
+ end
 
 end
